@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taoIP", "taoIP\taoIP.csproj", "{33D631CA-55C8-4E59-B80B-90AE8DDE267D}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = taoIP\\taoIP.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = taoIP\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33D631CA-55C8-4E59-B80B-90AE8DDE267D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D631CA-55C8-4E59-B80B-90AE8DDE267D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D631CA-55C8-4E59-B80B-90AE8DDE267D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D631CA-55C8-4E59-B80B-90AE8DDE267D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
